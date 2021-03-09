@@ -14,7 +14,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
   - RefApp: Displaying Ad Quartile events indicating the percentage of Ad being played
 
 Known Issues:
-- DAI Ad marker not available yet 
+- DAI Ad markers not available yet 
 
 ## 0.9.1 - 2021.03.03
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.1/) 
