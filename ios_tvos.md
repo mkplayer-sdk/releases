@@ -11,6 +11,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 - Support for playback controls like Pause/Resume, Restart (play from beginning), Skip back 10 seconds, Skip forwards 10 seconds
 - Basic RefApp available to validate the VOD/Live playback
 - Bitcode support for iOS/tvOS
+- Fixed the Crash during encrypted content playback
 
 Known Issues: 
 - DAI Support for HLS (Not available yet)
@@ -28,6 +29,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 - Bitcode support for iOS/tvOS
 
 Known Issues: 
+- Crash observed during encrypted content playback 
 - DAI Support for HLS (Not available yet)
 
 ## 0.9.2 (2021.02.25)
