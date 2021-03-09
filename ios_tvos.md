@@ -13,7 +13,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 - Bitcode support for iOS/tvOS
 
 Known Issues: 
-- Crash observed during encrypted content playback (Live/VOD)
 - DAI Support for HLS (Not available yet)
 
 ## 0.9.2 (2021.02.25)
