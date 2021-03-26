@@ -8,7 +8,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
 
 **Change log:**
 - Bitmovin Analytics Integrated
-- Added support for selectable Quality controls support, Adaptation, Buffer controls and Tweak configuration
+- Support for selectable quality controls, Adaptation, Buffer controls and Tweak configuration
 - Support for SourceOptions
 - Support for wake lock and full screen
 - Deprecated use of initPlayer(). MKPlayer construction takes care of initialization
