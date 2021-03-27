@@ -8,7 +8,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 **Change log:**
 - Bitmovin Analytics Integrated
 - Enabled Airplay support
-- Support for Buffer controls and Adaptation 
+- Support for Buffer controls
 - Support for SourceOptions
 - Support for full screen on changing orientation
 - Deprecated DeveloperID for UMCless communication
