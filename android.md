@@ -6,7 +6,7 @@ Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.4/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.4.zip)
 
 **Change log:**
-- Optimised Android RefApp UI for FireTV support
+- Optimised Android RefApp for FireTV support
   - Added Leanback support
   - Designed new UI to support FireTV
   - Handled remote key events
