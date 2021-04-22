@@ -11,7 +11,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
    - Support added for playback control blocking PBRs (rewind, fastForward, seekBackward, seekForwards, pause/resume, restart blocked pbrs)
    - Not supported PBR - Program boundary scenario for Live, Stream count, Jail broken, HDMI blocked, AV Adapter, OOH blocked
 - Ability to pass CDN token in master manifest URL
-- CDN selection based on cdnFailoverPercent
+- Added support for CDN selection based on cdnFailoverPercent
 - HLS + WV playback support on Android devices 
 
 
