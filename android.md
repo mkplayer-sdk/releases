@@ -2,6 +2,20 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
+## 0.9.7 - 2021.04.23
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.7/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.7.zip)
+
+**Change log:**
+- Added playback restriction (PBR) support
+   - Support added for playback blocking PBRs (wifi, cellular, phone, tablet blocked pbrs)
+   - Support added for playback control blocking PBRs (rewind, fastForward, seekBackward, seekForwards, pause/resume, restart blocked pbrs)
+   - Not supported PBR - Program boundary scenario for Live, Stream count, Jail broken, HDMI blocked, AV Adapter, OOH blocked
+- Ability to pass CDN token in master manifest URL
+- CDN selection based on cdnFailoverPercent
+- HLS + WV playback support on Android devices 
+
+
+
 ## 0.9.4 - 2021.04.09
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.4/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.4.zip)
 
@@ -13,8 +27,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
 - Bitmovin version updated to 2.64.0 to fix missing metadata events for DAI
 
 
-
-Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
 ## 0.9.3 - 2021.03.26
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.3/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.3.zip)
@@ -29,7 +41,6 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.
 
 
 
-Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
 ## 0.9.2 - 2021.03.08
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/0.9.2/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-0.9.2.zip)
