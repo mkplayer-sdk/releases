@@ -8,9 +8,10 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0
 
 **Change log:**
 - Added playback restriction (PBR) support
-   - Support added for playback blocking PBRs for Jailbroken devices and extended display over HDMI dongle.
+   - Support added for playback blocking PBRs for Jailbroken devices and extended display over HDMI dongle (enforced at the App level - Ex: RefApp).
    - Support added for checking playback restrictions for Live services on tune and across program boundary.
    - Support for stream count based restrictions.
+   - Not supported PBR - Out-of-Home blocked
 - [MKPErrorEvent](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/0.9.8/Classes/MKPErrorEvent.html) properties `errorCode` and `errorMessage` now renamed to `code` and `message` respectively.
 - Xcode 12.5 support.
 
