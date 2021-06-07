@@ -3,6 +3,21 @@
 
 ## Quick Release Links: [NPM Repository](https://www.npmjs.com/package/@mediakind/wmc) | [Reference Doc](https://wmc.mr.tv3cloud.com/nba/docs/index.html) | [RefApp Link](https://wmc.mr.tv3cloud.com/nba/refapp/index.html)
 
+## Release - 1.40.11
+- Improvements:
+    -  Added support for HLS+WV and HLS+PR Encrypted Playback on Chrome and Edge browsers
+    -  Added Xbox encrypted playback support
+    -  Removed debugger lock from release/secure builds and NPM releases
+    -  Added accountId in ....
+    -  Improve WMC-SDK documentation
+       - Added an example tutorial for encrypted playback of MK assets
+       - Added player key and domain white- list related information
+       - Updated with MKP service related communication API
+
+- Bug Fixes:
+    -  
+
+
 ## Release - 1.40.10
 - Bug Fixes:
     -  Bug 1237812: On performing restart operation, VOD asset throws '4-44-225' error
