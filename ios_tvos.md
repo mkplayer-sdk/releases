@@ -8,7 +8,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1
 
 **Added:**
 - Provided Video Scaling mode APIs from SDK
-- Adding accoundId to MKPBackendConfiguration
+- Added accoundId to MKPBackendConfiguration
 - Added API updateAuthToken() to provide means to update the auth token during playback
 
 **Changed:**
