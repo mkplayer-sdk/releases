@@ -6,7 +6,7 @@
 ## 1.42.13 - 2021.06.18
 - **Change log:**
     -  Exposed APIs in SDK to set the player forward and backward buffer duration value. Option provided in Reference App, to configure the player buffer values
-    -  Added support to display the live latency, buffer duration metrics in the Reference Application
+    -  Added support to display the live latency & buffer duration metrics in the Reference Application
     -  Added support to overwrite the default params with CDN Token properties in the manifest url, when the CDN token keyname matches with default param name
 
 ## 1.42.12 - 2021.06.11
