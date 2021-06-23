@@ -1,5 +1,10 @@
 # MKPlayerSDK Roku Releases
 
+## 0.9.3 (2021.06.22)
+Links: [Library Download](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/0.9.3.zip) | [Reference Doc](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/roku.html) | [Roku Reference App](https://mkplayer.z13.web.core.windows.net/roku/0.9.3/0.9.3.zip)
+
+- Handled sending the complete Beacon when the user exits the app via the Home button or crash
+
 ## 0.9.2 (2021.06.11)
 Links: [Library Download](https://mkplayer.z13.web.core.windows.net/roku/0.9.2/0.9.2.zip) | [Reference Doc](https://mkplayer.z13.web.core.windows.net/roku/0.9.2/roku.html) | [Roku Reference App](https://mkplayer.z13.web.core.windows.net/roku/0.9.2/0.9.2.zip)
 
