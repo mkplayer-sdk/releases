@@ -9,7 +9,7 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1
 - Added support for Seeking within the live manifest
 - Exposed getSeekableRange() API to allow user to seek within the live window
 - Added support to append personalInfo params to the manifest URL
-- Added support for the key/values in the CDN Token to overwrite with the matching key/values in the manifest URL and/or append the key/values if do not exist
+- Added support for the key/values in the CDN Token to overwrite with the matching key/values in the manifest URL and append the key/values if do not exist
 - Printing the live latency in the RefApp
 
 
