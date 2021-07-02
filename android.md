@@ -2,6 +2,15 @@
 
 Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/packages)
 
+## 1.0.2 - 2021.07.02
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.2/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.2.zip)
+
+**Added:**
+- Added support for Seeking within the live manifest
+- Exposed getSeekableRange() API to allow user to seek within the live window
+- Added support to append personalInfo params to the manifest URL
+- Added support for the key/values in the CDN Token to overwrite with the matching key/values in the manifest URL and append the key/values if do not exist
+
 
 ## 1.0.1 - 2021.06.18
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.1/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.1.zip)
