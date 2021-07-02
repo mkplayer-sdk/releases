@@ -5,7 +5,7 @@
 
 ## 1.44.14 - 2021.07.02
 - **Change log:**
-    -  Added getSeekableRange API for letting user seek with in the seekable range
+    -  Added getSeekableRange API to allow the user to query the current seekable range that is valid in the live window
     -  Added seek start, seek end and seek duration in playback metrics of the Ref App
     -  Updated documentation with usage details of Forward/Backward Buffer Duration APIs
   
