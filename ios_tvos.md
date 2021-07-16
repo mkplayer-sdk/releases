@@ -7,7 +7,8 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1
 
 **Added:**
 - Added support for Picture in Picture
-- Reference application enhancement: Added Progress bar and provision to validate seeking functionality in the live window  
+- Reference application: Added Progress bar and provision to validate seeking functionality in the live window
+- Fixed ADO 20739: iOS Simulator crash - "AVPlayerLayer was deallocated while key value observers were still registered with it"  
 
 ## 1.0.1 (2021.07.02)
 
