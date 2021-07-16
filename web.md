@@ -7,7 +7,7 @@
 - **Change log:**
 - Fixed inconsistencies in getSeekableRange() across all the browsers
 - Reference Application Enhancement: 
-    - Added provision to set CDN Tokens. This is required for validatiing scenarios like Ad applicability, blackouts etc.
+    - Added provision to set CDN Tokens. This is required for validating scenarios like Ad applicability, blackouts etc.
     - Added Progress bar and provision to validate seeking functionality in the live window 
 
 ## 1.44.14 - 2021.07.02
