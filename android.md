@@ -5,7 +5,7 @@ Quick Links: [MKPlayer Artifactory Repo](https://mkplayer.jfrog.io/ui/repos/tree
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.4/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.4.zip)
 **Added:**
 - Added support for Closed captions
-- Added SessionId in User Information passed to PRISMA
+- Added SessionId in User Information that is passed to PRISMA. This is uniquely identify login of the same account multiple devices
 ## 1.0.3 - 2021.07.16
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/android/docs/1.0.3/) | [Android Reference App](https://mkplayer.z13.web.core.windows.net/android/refapp/MKPlayer-RefApp-Android-1.0.3.zip)
 
