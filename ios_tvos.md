@@ -9,6 +9,9 @@ Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1
 - Added support for Closed captions
 - Added SessionId in User Information that is passed to PRISMA. This is to uniquely identify login of the same account multiple devices
 
+**Changed:**
+- Corrected a typo in the PictureInPicture property `isPictureInPictureAvailable` this was misspelled as `isPicturePInPictureAvailable` which is now corrected to `isPictureInPictureAvailable`
+
 ## 1.0.3 (2021.07.16)
 
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.3/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.3.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.3.zip)
