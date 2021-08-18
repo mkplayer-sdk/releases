@@ -1,13 +1,15 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
-## 1.0.4 (2021.07.30)
+## 1.0.5 (2021.08.17)
 
-Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.4/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.4.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.4.zip)
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.5/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.5.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.5.zip)
 
 **Added:**
-- Added support for Closed captions
-- Added SessionId in User Information that is passed to PRISMA. This is to uniquely identify login of the same account multiple devices
+- Support for playback of VOD assets with Ads (DAI for VOD)
+    - Smooth transition from Ad to VOD and vice versa
+    - Ad tracking events are sent to the tracking server specified in the manifest
+    - Support for Ad Playback events to the SDK Client
 
 **Changed:**
 - Corrected a typo in the PictureInPicture property `isPictureInPictureAvailable` this was misspelled as `isPicturePInPictureAvailable` which is now corrected to `isPictureInPictureAvailable`
