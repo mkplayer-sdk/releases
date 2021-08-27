@@ -1,6 +1,18 @@
 
 # MKPlayerSDK iOS/tvOS Releases
 
+## 1.0.6 (2021.08.27)
+
+Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.6/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.6.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.6.zip)
+
+**Added:**
+- Support for playback of Live and VOD assets with Ads
+    - Handled generically for all Ad tracking data. Validated with NBA Prod C assets
+- Live book mark ( in the live window)
+- Fixed XCode 12.4 compatibility issue
+- Exposed all the call backs in AVPictureInPictureControllerDelegate
+
+    
 ## 1.0.5 (2021.08.17)
 
 Links: [Reference Doc](https://mkplayer.z13.web.core.windows.net/ios_tvos/docs/1.0.5/) | [iOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-iOS-1.0.5.zip) | [tvOS Reference App](https://mkplayer.z13.web.core.windows.net/ios_tvos/refapp/MKPlayer-RefApp-tvOS-1.0.5.zip)
